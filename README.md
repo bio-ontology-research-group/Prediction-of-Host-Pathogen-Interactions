@@ -17,5 +17,5 @@ hyperopt.
 * train.ipynb: Trains the prediction model by leave-one-taxon-out cross-validation and computing the performance. The input files need to be changed for each set of features.
 * train&predict.ipynb: Trains and saves the model predictions to predictions.tsv.
 
-### 4. Plots
-* plots.ipynb: generates the TPR plots and the AUC-Epoch plots.
+### 4. Plotting the figures in the paper
+* plots.ipynb: generates the TPR plots and the AUC-Epoch figures.
