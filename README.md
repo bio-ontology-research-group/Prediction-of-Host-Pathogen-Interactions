@@ -21,5 +21,6 @@ hyperopt.
 * plots.ipynb: generates the TPR plots and the AUC-Epoch figures.
 
 ## Prediction results
-predictions_bacteria_intersection.tsv: predicted protein partners for 29 bacteria taxa based on the intersection feature for proteins and the taxonomic propogation
-predictions_virus_intersection.tsv: predicted protein partners for 96 virus taxa based on the intersection feature for proteins and the taxonomic propogation
+* predictions_bacteria_intersection.tsv: predicted protein partners for 29 bacteria taxa based on the intersection feature for proteins and the taxonomic propogation
+
+* predictions_virus_intersection.tsv: predicted protein partners for 96 virus taxa based on the intersection feature for proteins and the taxonomic propogation
